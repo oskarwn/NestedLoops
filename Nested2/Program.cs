@@ -10,7 +10,7 @@ namespace Nested2
         {
             static void Main(string[] args)
             {   /*
-            //Övning 1 
+            //Övning 1  
             for (int i = 0; i < 5; i++)
             {
                 for (int inne = 0; inne < 5 ; inne++)
